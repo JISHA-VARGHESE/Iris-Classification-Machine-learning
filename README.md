@@ -33,4 +33,18 @@ To develop a **classification model** that accurately identifies the species of 
 
 ## Conclusion
 - The **tuned Random Forest model** was selected as the final prediction model.  
-- The model achieved **hig**
+- The model achieved **high recall and accuracy** in classifying Iris species.  
+- **Iris-Setosa** showed distinct characteristics compared to the other two species.  
+- **Data preprocessing** involved cleaning, handling missing values, and encoding variables.  
+- **Future Scope:** Explore advanced models to further enhance accuracy.  
+- **Applications:** Useful in **botany and horticulture** for automating species identification.
+
+---
+
+## Technologies Used
+- **Python**  
+- **Pandas**  
+- **NumPy**  
+- **Scikit-learn**  
+- **Matplotlib**  
+- **Seaborn**
